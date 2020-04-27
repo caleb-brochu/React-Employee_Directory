@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Mike Blumberg",
+    "team": "Sales",
+    "tenure": 3,
+    "email": "Mike@mail.com",
+    "occupation": "Salesperson",
+    "location": "New York City"
+  },
+  {
+    "id": 2,
+    "name": "Joe Biden",
+    "team": "Engineering",
+    "tenure": 20,
+    "email": "Joe@mail.com",
+    "occupation": "Engineering Manager",
+    "location": "Pennsylvania"
+  },
+  {
+    "id": 3,
+    "name": "Bill Gates",
+    "team": "Engineering",
+    "tenure": 15,
+    "email": "Bill@mail.com",
+    "occupation": "Engineer",
+    "location": "Seattle"
+  }
+]
